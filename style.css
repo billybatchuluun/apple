@@ -1,0 +1,22 @@
+html {
+    max-width: 1512px;
+}
+.head {
+    background-color: rgb(27, 29, 28);
+    color: white;
+}
+.items {
+    display: flex;
+    height: 30px;
+    justify-content: space-around;
+    margin:0 auto;
+    list-style: none;
+    align-items: center;
+}
+    
+
+
+    
+    
+    
+   
