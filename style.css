@@ -1,8 +1,9 @@
 html {
     max-width: 1512px;
+    margin: 0 auto;
 }
 .head {
-    background-color: rgb(27, 29, 28);
+    background-color: rgb(95, 101, 98);
     color: white;
 }
 .items {
@@ -13,6 +14,62 @@ html {
     list-style: none;
     align-items: center;
 }
+section {
+    width: 1512px;
+    height: 736px;
+}
+.first-section {
+    margin: 0 auto;
+    text-align: center;
+    
+}
+h1 {
+    font-size: 56px;
+    /* color: #1D1D1F; */
+    margin: 0 auto;
+    padding: 30px 0;
+    letter-spacing: 0.28px;
+}
+h3 {
+    font-size: 28px;
+    letter-spacing: 0.112px;
+}
+.learnmore, .buy {
+    text-decoration: none;
+    font-size: 29px;
+    color: blue;
+}
+.first-section {
+    background-color: #FBFBFB;
+}
+.second-section {
+    position: relative;
+    background-color: black;
+    margin: 0 auto;
+    text-align: center;
+}
+.sectext {
+    position:absolute;
+    top: 10px;
+    left: 40%;
+    color: #F5F5F7;
+    bottom: 0;
+}  
+.secpic {
+    bottom: 0;
+  
+}
+
+
+    
+    
+
+
+
+
+  
+   
+
     
 
 
